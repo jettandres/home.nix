@@ -17,6 +17,7 @@ in
   home.packages = [
      pkgs.neovim
      pkgs.curl
+     pkgs.xclip
   ];
 
   # This value determines the Home Manager release that your
